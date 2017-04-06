@@ -2,8 +2,8 @@
 #include <stdio.h>
 #include <math.h>
 
-#define NUMT	         4
-#define ARRAYSIZE       10000	// you decide
+#define NUMT	         1
+#define ARRAYSIZE       10000000	// you decide
 #define NUMTRIES        10	// you decide
 
 float A[ARRAYSIZE];
