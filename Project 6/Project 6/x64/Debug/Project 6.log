@@ -1,0 +1,9 @@
+﻿  first.cpp
+c:\users\alston\desktop\cs475\project 6\project 6\first.cpp(48): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.14393.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\alston\desktop\cs475\project 6\project 6\first.cpp(145): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type '::size_t'
+  c:\users\alston\desktop\cs475\project 6\project 6\first.cpp(145): note: consider using '%zd' in the format string
+c:\users\alston\desktop\cs475\project 6\project 6\first.cpp(145): warning C4477: 'fprintf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type '::size_t'
+  c:\users\alston\desktop\cs475\project 6\project 6\first.cpp(145): note: consider using '%zd' in the format string
+  Project 6.vcxproj -> C:\Users\Alston\Desktop\CS475\Project 6\x64\Debug\Project 6.exe
+  Project 6.vcxproj -> C:\Users\Alston\Desktop\CS475\Project 6\x64\Debug\Project 6.pdb (Partial PDB)
