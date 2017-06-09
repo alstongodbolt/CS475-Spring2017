@@ -1,0 +1,4 @@
+﻿  p3.cpp
+c:\users\alston\desktop\cs475\p3\p3\p3.cpp(34): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  p3.vcxproj -> C:\Users\Alston\Desktop\CS475\p3\Debug\p3.exe
+  p3.vcxproj -> C:\Users\Alston\Desktop\CS475\p3\Debug\p3.pdb (Partial PDB)

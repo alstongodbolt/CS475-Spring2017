@@ -1,5 +1,3 @@
-﻿  simd.p5.cpp
-c:\users\alston\desktop\cs475\project5\project5\simd.p5.h(6): fatal error C1083: Cannot open include file: 'sys/time.h': No such file or directory
-  project5.cpp
-c:\users\alston\desktop\cs475\project5\project5\simd.p5.h(6): fatal error C1083: Cannot open include file: 'sys/time.h': No such file or directory
-  Generating Code...
+﻿  project5.cpp
+  project5.vcxproj -> C:\Users\Alston\Desktop\CS475\project5\Debug\project5.exe
+  project5.vcxproj -> C:\Users\Alston\Desktop\CS475\project5\Debug\project5.pdb (Partial PDB)
